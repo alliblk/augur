@@ -40,6 +40,7 @@ config = {
     "timetree_options": {
         "Tc": 'opt',
         "confidence":True,
+        "reroot": 'PF13/251013_18'
     }
 }
 
