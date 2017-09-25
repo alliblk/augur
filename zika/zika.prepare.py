@@ -24,7 +24,7 @@ dropped_strains = [
     "Bahia04", "JAM/2016/WI_JM6", "Bahia11", "Bahia12", "DOM/2016/MA_WGS16_009", "VE_Ganxian", "BRA/2016/FC_DQ60D1", "CX5", #"Brazil/2016/ZBRY14" # excessive terminal branch length
     "VR10599/Pavia/2016", "34997/Pavia/2016", # exports
     "THA/PLCal_ZV/2013", "SK403/13AS", "SV0010/15", "SK364/13AS", # clock is off
-    "AFMC_U", "AFMC_S","VIE/Bra/2016", # too basal
+    "AFMC_U", "AFMC_S","VIE/Bra/2016", "Brazil/2016/ZBRC28", "Brazil/2015/ZBRC313", # too basal
     "USA/2016/FL019", "DOM/2016/MA_WGS16_009", "DOM/2016/MA_WGS16_020", "BRA/2016/FC_DQ12D1", "USA/2016/FL035", "HTI/2016/MA_WGS16_022",
     "DOM/2016/BB_0428", "HND/2016/HU_ME137", "Bahia04", "Bahia05", "Bahia15", "DOM/2016/MA_WGS16_031", "JAM/2016/MA_WGS16_038", "BRA/2016/FC_DQ68D1",
     "Brazil/2016/ZBRY12" #sequences have fewer than 5000 informative bases
